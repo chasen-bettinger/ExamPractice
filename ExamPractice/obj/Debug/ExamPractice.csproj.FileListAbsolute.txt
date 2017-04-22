@@ -1,0 +1,10 @@
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe.config
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\bin\Debug\ExamPractice.pdb
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csprojResolveAssemblyReference.cache
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.CustomerGUI.resources
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.Properties.Resources.resources
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.GenerateResource.Cache
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.exe
+c:\users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.pdb
+C:\Users\betti\documents\visual studio 2017\Projects\ExamPractice\ExamPractice\obj\Debug\ExamPractice.LoanGUI.resources
